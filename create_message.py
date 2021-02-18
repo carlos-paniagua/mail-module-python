@@ -22,11 +22,11 @@ def send_mail(to_email,from_email,account,password,msg): #メッセージ送信
     server.close()
 
 
-account = "turing.test50@gmail.com" #アカウント名
-password = "turing53" #パスワード
+account = "#アカウント名" 
+password = "#パスワード" 
 
-to_email = "carlos.paniagua042137@gmail.com" #TO
-from_email = "turing.test50@gmail.com" #FROM
+to_email = "#TO" 
+from_email = "#FROM" 
 
 charset = 'ISO-2022-JP' #文字コード
 subject = "【危険】CO2ついて"  # 件名
